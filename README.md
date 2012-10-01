@@ -7,3 +7,5 @@ Include:
 * number.js: number functions
 * string.js: string functions
  
+
+ [![endorse](http://api.coderwall.com/agripinoduarte/endorsecount.png)](http://coderwall.com/agripinoduarte)
