@@ -4,14 +4,14 @@
 */ 
 
 /**
-*	toIntD: converts a integer string to an integer type base 10
+*	toD: converts a integer string to an integer type base 10
 */
 toD = function(number) {
 	return parseInt(number,10);
 }
 
 /**
-*	toIntH: converts a integer string to an integer type base 16
+*	toH: converts a integer string to an integer type base 16
 */
 toH = function(number) {
 	return parseInt(number,16);
